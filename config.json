@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfync",
+        "uuid": 10539288,
+        "checksum": "gbfj1w"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
